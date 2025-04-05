@@ -1,0 +1,4 @@
+google-genai
+ipykernel
+python-dotenv
+pillow
